@@ -1,0 +1,50 @@
+country	CO2pc
+Nigeria	0.5
+Pakistan	0.9
+Philippines	1.1
+Colombia	1.7
+India	1.9
+Indonesia	2
+Vietnam	2.2
+Brazil	2.3
+Egypt	2.5
+Mexico	3.7
+Algeria	3.7
+Uzbekistan	3.7
+Azerbaijan	3.9
+Thailand	4.1
+Romania	4.2
+Argentina	4.4
+Iraq	4.4
+Turkey	4.5
+Chile	4.5
+France	5.1
+Ukraine	5.1
+Spain	5.7
+Venezuela	5.7
+Italy	5.9
+United Kingdom	6.2
+European Union	6.9
+Poland	7.6
+China	7.7
+South Africa	7.7
+Netherlands	7.8
+Iran	8
+Malaysia	8.1
+Belgium	8.6
+Germany	9.6
+Japan	9.9
+Czech Republic	10.5
+Taiwan	11.9
+Russia	12.3
+South Korea	12.3
+Kazakhstan	15.2
+Canada	15.5
+Saudi Arabia	16
+United States	16.1
+Turkmenistan	17.5
+Oman	17.5
+Australia	18.6
+United Arab Emirates	21.8
+Kuwait	24.4
+Qatar	39.7
